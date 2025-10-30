@@ -1,5 +1,5 @@
 # coca-cola-sales-dashboard
-💰 Financial & Customer Insights Dashboard
+💰 coca cola Insights Dashboard
 A dynamic and strategic business intelligence project designed to analyze core financial performance, monitor profitability, and explore customer demographics and behavior.
 
 🎯 Short Description / Purpose
